@@ -10,8 +10,8 @@ A fully functional **Gemini Clone** designed to mimic the capabilities of Google
 - **Dark Mode:** User-friendly dark mode for better usability.
 
 ## 📷 Screenshots
-![Screenshot 1](link-to-screenshot-1)
-![Screenshot 2](link-to-screenshot-2)
+![Screenshot 1](https://github.com/EjramWay/Gemeni_Clone/blob/main/screenshots/Screenshot%202025-01-25%20084955.png?raw=true)
+![Screenshot 2](https://github.com/EjramWay/Gemeni_Clone/blob/main/screenshots/Screenshot%202025-01-25%20085147.png?raw=true)
 
 ## 🛠️ Technologies Used
 - **Frontend:** HTML, CSS, JavaScript (Tailwind CSS for styling)
