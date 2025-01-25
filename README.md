@@ -15,8 +15,6 @@ A fully functional **Gemini Clone** designed to mimic the capabilities of Google
 
 ## 🛠️ Technologies Used
 **Frontend:** HTML, CSS, JavaScript, Reactjs
-**Backend:** Python (FastAPI/Flask)
-**Database:** MySQL (if applicable)
 **Deployment:** Vercel
 
 ## 📦 Installation & Setup
