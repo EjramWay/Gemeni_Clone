@@ -14,10 +14,10 @@ A fully functional **Gemini Clone** designed to mimic the capabilities of Google
 ![Screenshot 2](https://github.com/EjramWay/Gemeni_Clone/blob/main/screenshots/Screenshot%202025-01-25%20085147.png?raw=true)
 
 ## 🛠️ Technologies Used
-- **Frontend:** HTML, CSS, JavaScript (Tailwind CSS for styling)
-- **Backend:** Python (FastAPI/Flask)
-- **Database:** MySQL (if applicable)
-- **Deployment:** Vercel / Netlify / Render (or any other hosting platform)
+**Frontend:** HTML, CSS, JavaScript, Reactjs
+**Backend:** Python (FastAPI/Flask)
+**Database:** MySQL (if applicable)
+**Deployment:** Vercel
 
 ## 📦 Installation & Setup
 1. Clone the repository:
@@ -51,6 +51,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is **MIT Licensed** – feel free to use and modify it as needed.
 
 ---
+
+Can make some changes anytime
 
 ### 🌟 Show Some Love
 If you found this project helpful, consider giving it a **star ⭐ on GitHub!**
